@@ -1,0 +1,16 @@
+Hello!
+
+Welcome to the "Energizer Randomizer".
+
+All this little GUI does is gives a random energy drink when you
+press the button.
+
+Simple right?
+
+First:
+
+Click on "MENU",
+
+Select "Brand Names"
+
+And poof!  That's all.
